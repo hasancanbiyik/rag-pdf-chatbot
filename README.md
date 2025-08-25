@@ -92,3 +92,10 @@ This project demonstrates:
 3. Add document management (multiple PDFs)
 4. Deploy to Streamlit Cloud
 5. Add evaluation metrics for answer quality
+
+## Project Status
+
+⚠️ This project is currently work-in-progress as of August 25, 2025.  
+On some machines (especially Apple Silicon), the app may crash or freeze when processing documents.  
+The repo is published for learning and demonstration purposes, not yet for production use.
+
