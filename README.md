@@ -50,11 +50,11 @@ streamlit run main.py
 
 ## Key Features
 
-- ✅ **100% Free** - No API costs
-- ✅ **Local Processing** - Your data stays private
-- ✅ **Source Citations** - Shows which parts of document were used
-- ✅ **Conversation Memory** - Maintains chat history
-- ✅ **Simple UI** - Easy to use Streamlit interface
+- **100% Free** - No API costs
+- **Local Processing** - Your data stays private
+- **Source Citations** - Shows which parts of document were used
+- **Conversation Memory** - Maintains chat history
+- **Simple UI** - Easy to use Streamlit interface
 
 ## Project Structure
 ```
