@@ -15,7 +15,7 @@ A basic Retrieval-Augmented Generation chatbot that answers questions about uplo
 ### 2. Setup Python Environment
 ```bash
 # Create virtual environment
-python -m venv rag_env
+python3 -m venv rag_env
 source rag_env/bin/activate  # On Windows: rag_env\Scripts\activate
 
 # Install dependencies
